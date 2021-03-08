@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "basscss": "^8.0.2",
+    "basscss-btn": "^1.1.1",
+    "postcss-custom-media": "^8.0.0",
+    "postcss-custom-properties": "^11.0.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.7",
+    "postcss-cli": "^8.3.1"
+  }
+}
